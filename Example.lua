@@ -5,12 +5,12 @@ local watermark = library:Watermark("watermark | 60 fps | v4.20 | dev")
 -- watermark:Hide() -- toggles watermark
 
 local main = library:Load{
-    Name = "vozoid hax or something",
+    Name = "Moon",
     SizeX = 600,
     SizeY = 650,
     Theme = "Midnight",
     Extension = "json", -- config file extension
-    Folder = "vozoid ui or something" -- config folder name
+    Folder = "Moon" -- config folder name
 }
 
 -- library.Extension = "txt" (config file extension)
